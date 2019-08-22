@@ -1,0 +1,9 @@
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\bin\AspnWebServiceDB.dll.config
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\bin\AspnWebServiceDB.dll
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\bin\AspnWebServiceDB.pdb
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.csprojResolveAssemblyReference.cache
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.csproj.CoreCompileInputs.cache
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.dll
+C:\_aspn_out2017\AspnWebServiceDB\AspnWebServiceDB\obj\Debug\AspnWebServiceDB.pdb
